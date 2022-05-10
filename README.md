@@ -13,3 +13,7 @@
 ## After installimng these packages, execute the blocks of code one by one
 ## After executing the last block of code, the camera will open automatically and the face recogniton and expression will be done.
 
+## Image dataset and training and testing model are inside the repository.
+
+## Literature survey is inside the ppt presentation.
+
